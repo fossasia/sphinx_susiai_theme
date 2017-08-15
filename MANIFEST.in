@@ -1,0 +1,3 @@
+include LICENSE
+include README.rst
+recursive-include sphinx_susiai_theme *.conf *.html *.png *.gif *.ico *.js *.css *.jpg *.jpeg *.eot *.svg *.ttf *.woff *.py *.css_t
